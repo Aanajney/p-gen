@@ -48,5 +48,5 @@ https://www.youtube.com/channel/UCzGf5g8W0L5aXjbjoYHYU6g
 Chekout our webite
 https://www.youtube.com/channel/UCzGf5g8W0L5aXjbjoYHYU6g
 
-                                                                              Warning
-                   This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
+                                                                  Warning
+        This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
