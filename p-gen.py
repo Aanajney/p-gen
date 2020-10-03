@@ -17,7 +17,7 @@ print (red+b+"""
                                                    v 1.0
 """+b+red)
 
-print (gren+b+"              <===[[ coded by pujari hacker]]===>"+b+gren)
+print (gren+b+"              <===[[ coded by pujari hacker1]]===>"+b+gren)
 print (" ")
 print (yellow+b+"        <---( search on youtube Pujari Hacker )--->"+b+yellow)
 print (" ")
